@@ -17,6 +17,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.69,
     "video_file": "podcast_ep2_20261015_083217.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "La Douceur des Instants Suspendus : Savourer le Présent sans Attente",
+    "date": "2026-10-17T11:55:54.953798",
+    "duration_sec": 1103.35,
+    "duration_min": 18.39,
+    "video_file": "podcast_ep3_20261017_113716.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
