@@ -26,6 +26,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.39,
     "video_file": "podcast_ep3_20261017_113716.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "L'Écoute Profonde : Réapprendre à Entendre le Monde Intérieur",
+    "date": "2026-10-18T05:40:04.529829",
+    "duration_sec": 1150.58,
+    "duration_min": 19.18,
+    "video_file": "podcast_ep4_20261018_052115.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
