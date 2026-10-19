@@ -44,6 +44,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.68,
     "video_file": "podcast_ep5_20261019_053823.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 6,
+    "topic": "L'Art Délicat de la Respiration Consciente : Un Havre de Paix au Quotidien",
+    "date": "2026-10-19T20:05:57.378558",
+    "duration_sec": 1007.4,
+    "duration_min": 16.79,
+    "video_file": "podcast_ep6_20261019_200001.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
