@@ -35,6 +35,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.18,
     "video_file": "podcast_ep4_20261018_052115.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "La Joie Subtile des Petites Victoires Quotidiennes",
+    "date": "2026-10-19T05:56:38.300939",
+    "duration_sec": 1120.87,
+    "duration_min": 18.68,
+    "video_file": "podcast_ep5_20261019_053823.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
