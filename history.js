@@ -53,6 +53,15 @@ const PODCAST_HISTORY = [
     "duration_min": 16.79,
     "video_file": "podcast_ep6_20261019_200001.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 7,
+    "topic": "Le Jardin Secret de l'Esprit : Cultiver la Sérénité Intérieure",
+    "date": "2026-10-20T05:56:44.732345",
+    "duration_sec": 1028.42,
+    "duration_min": 17.14,
+    "video_file": "podcast_ep7_20261020_053840.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
