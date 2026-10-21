@@ -61,5 +61,14 @@
     "duration_min": 17.14,
     "video_file": "podcast_ep7_20261020_053840.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 8,
+    "topic": "Le Reflet Paisible des Eaux Calmes : Observer ses Pensées sans Jugement",
+    "date": "2026-10-21T05:53:40.400668",
+    "duration_sec": 1092.79,
+    "duration_min": 18.21,
+    "video_file": "podcast_ep8_20261021_054101.mp4",
+    "platform": "Facebook"
   }
 ]
