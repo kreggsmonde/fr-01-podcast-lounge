@@ -71,6 +71,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.21,
     "video_file": "podcast_ep8_20261021_054101.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "L'Écho Doux des Souvenirs : Accueillir le Passé avec Bienveillance",
+    "date": "2026-10-22T06:03:46.426508",
+    "duration_sec": 1144.32,
+    "duration_min": 19.07,
+    "video_file": "podcast_ep9_20261022_054220.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
