@@ -80,6 +80,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.07,
     "video_file": "podcast_ep9_20261022_054220.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 10,
+    "topic": "La Mélodie Intérieure : Harmoniser le Corps et l'Esprit par le Mouvement Doux",
+    "date": "2026-10-23T05:58:58.487133",
+    "duration_sec": 1024.13,
+    "duration_min": 17.07,
+    "video_file": "podcast_ep10_20261023_054153.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
