@@ -89,6 +89,15 @@ const PODCAST_HISTORY = [
     "duration_min": 17.07,
     "video_file": "podcast_ep10_20261023_054153.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "L'Art de Flâner : Redécouvrir le Cheminement Lent et la Présence",
+    "date": "2026-10-24T05:37:54.120024",
+    "duration_sec": 1031.16,
+    "duration_min": 17.19,
+    "video_file": "podcast_ep11_20261024_051938.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
