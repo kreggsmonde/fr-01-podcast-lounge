@@ -98,6 +98,15 @@ const PODCAST_HISTORY = [
     "duration_min": 17.19,
     "video_file": "podcast_ep11_20261024_051938.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "La Sérénité des Pauses : Ralentir pour Mieux Respirer",
+    "date": "2026-10-25T05:55:23.884919",
+    "duration_sec": 1027.37,
+    "duration_min": 17.12,
+    "video_file": "podcast_ep12_20261025_053640.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
