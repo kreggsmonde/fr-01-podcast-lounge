@@ -107,6 +107,15 @@ const PODCAST_HISTORY = [
     "duration_min": 17.12,
     "video_file": "podcast_ep12_20261025_053640.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 13,
+    "topic": "La Grâce du Lâcher-prise : Naviguer avec Légèreté dans le Courant de la Vie",
+    "date": "2026-10-26T06:01:57.601046",
+    "duration_sec": 1054.06,
+    "duration_min": 17.57,
+    "video_file": "podcast_ep13_20261026_054335.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
