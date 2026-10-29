@@ -134,6 +134,15 @@ const PODCAST_HISTORY = [
     "duration_min": 2.31,
     "video_file": "podcast_ep15_20261029_000612.mp4",
     "platform": "None"
+  },
+  {
+    "episode": 16,
+    "topic": "L'Éclat Discret des Petits Rituels : Ancrer sa Journée dans la Douceur",
+    "date": "2026-10-29T06:53:09.135035",
+    "duration_sec": 1000.94,
+    "duration_min": 16.68,
+    "video_file": "podcast_ep16_20261029_064253.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
