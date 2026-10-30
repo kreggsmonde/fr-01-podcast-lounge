@@ -142,5 +142,14 @@
     "duration_min": 16.68,
     "video_file": "podcast_ep16_20261029_064253.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 17,
+    "topic": "Le Parfum des Heures Lentes : Cultiver l'Appréciation du Temps qui Passe",
+    "date": "2026-10-30T07:01:51.783528",
+    "duration_sec": 1070.86,
+    "duration_min": 17.85,
+    "video_file": "podcast_ep17_20261030_064411.mp4",
+    "platform": "Facebook"
   }
 ]
