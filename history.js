@@ -152,6 +152,15 @@ const PODCAST_HISTORY = [
     "duration_min": 17.85,
     "video_file": "podcast_ep17_20261030_064411.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "L'Écoute de Soi dans le Bruissement des Feuilles : Un Dialogue Intime avec la Nature",
+    "date": "2026-10-31T06:46:40.705822",
+    "duration_sec": 1100.21,
+    "duration_min": 18.34,
+    "video_file": "podcast_ep18_20261031_063449.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
