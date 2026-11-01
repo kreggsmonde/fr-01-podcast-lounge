@@ -160,5 +160,14 @@
     "duration_min": 18.34,
     "video_file": "podcast_ep18_20261031_063449.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "Le Rituel Sacré du Soir : Apprivoiser l'Obscurité pour un Sommeil Paisible",
+    "date": "2026-11-01T07:21:26.773718",
+    "duration_sec": 984.53,
+    "duration_min": 16.41,
+    "video_file": "podcast_ep19_20261101_070533.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
