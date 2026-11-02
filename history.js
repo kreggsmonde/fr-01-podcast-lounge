@@ -170,6 +170,15 @@ const PODCAST_HISTORY = [
     "duration_min": 16.41,
     "video_file": "podcast_ep19_20261101_070533.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 20,
+    "topic": "Le Souffle de la Terre : Se Reconnecter à l'Essentiel par les Sons Naturels",
+    "date": "2026-11-02T07:24:26.799039",
+    "duration_sec": 996.67,
+    "duration_min": 16.61,
+    "video_file": "podcast_ep20_20261102_070829.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
