@@ -178,5 +178,14 @@
     "duration_min": 16.61,
     "video_file": "podcast_ep20_20261102_070829.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 21,
+    "topic": "L'Art de Marcher dans le Silence : Cultiver la Présence à Chaque Pas",
+    "date": "2026-11-03T07:44:26.650632",
+    "duration_sec": 1024.37,
+    "duration_min": 17.07,
+    "video_file": "podcast_ep21_20261103_073054.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
