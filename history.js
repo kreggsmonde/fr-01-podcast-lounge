@@ -188,6 +188,15 @@ const PODCAST_HISTORY = [
     "duration_min": 17.07,
     "video_file": "podcast_ep21_20261103_073054.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 22,
+    "topic": "Le Murmure des Possibles : Ouvrir son Cœur à l'Inattendu",
+    "date": "2026-11-04T07:23:10.703576",
+    "duration_sec": 1045.78,
+    "duration_min": 17.43,
+    "video_file": "podcast_ep22_20261104_071149.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
