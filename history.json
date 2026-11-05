@@ -196,5 +196,14 @@
     "duration_min": 17.43,
     "video_file": "podcast_ep22_20261104_071149.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "L'Art de la Fenêtre Ouverte : Laisser Entrer la Lumière et le Calme",
+    "date": "2026-11-05T07:52:56.386634",
+    "duration_sec": 1073.11,
+    "duration_min": 17.89,
+    "video_file": "podcast_ep23_20261105_073915.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
