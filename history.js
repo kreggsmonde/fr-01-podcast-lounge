@@ -206,6 +206,15 @@ const PODCAST_HISTORY = [
     "duration_min": 17.89,
     "video_file": "podcast_ep23_20261105_073915.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 24,
+    "topic": "Le Chant Discret des Objets : Écouter la Vie Quotidienne",
+    "date": "2026-11-06T07:49:41.946223",
+    "duration_sec": 998.21,
+    "duration_min": 16.64,
+    "video_file": "podcast_ep24_20261106_073631.mp4",
+    "platform": "None"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
