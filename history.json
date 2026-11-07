@@ -214,5 +214,14 @@
     "duration_min": 16.64,
     "video_file": "podcast_ep24_20261106_073631.mp4",
     "platform": "None"
+  },
+  {
+    "episode": 25,
+    "topic": "L'Art de la Pause Bienveillante : Accueillir le Vide pour Mieux Se Retrouver",
+    "date": "2026-11-07T07:02:16.445318",
+    "duration_sec": 1045.3,
+    "duration_min": 17.42,
+    "video_file": "podcast_ep25_20261107_064731.mp4",
+    "platform": "None"
   }
 ]
