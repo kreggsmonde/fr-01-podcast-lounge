@@ -223,5 +223,14 @@
     "duration_min": 17.42,
     "video_file": "podcast_ep25_20261107_064731.mp4",
     "platform": "None"
+  },
+  {
+    "episode": 26,
+    "topic": "Le Fil d'Or de la Gratitude : Illuminer le Quotidien par de Douces Reconnaissances",
+    "date": "2026-11-08T07:07:22.893789",
+    "duration_sec": 994.8,
+    "duration_min": 16.58,
+    "video_file": "podcast_ep26_20261108_065420.mp4",
+    "platform": "YouTube"
   }
 ]
