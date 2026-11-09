@@ -233,6 +233,15 @@ const PODCAST_HISTORY = [
     "duration_min": 16.58,
     "video_file": "podcast_ep26_20261108_065420.mp4",
     "platform": "YouTube"
+  },
+  {
+    "episode": 27,
+    "topic": "Le Cocon du Silence Intérieur : S'ancrer dans la Paix, loin du Brouhaha Extérieur",
+    "date": "2026-11-09T07:50:13.326900",
+    "duration_sec": 1038.36,
+    "duration_min": 17.31,
+    "video_file": "podcast_ep27_20261109_073439.mp4",
+    "platform": "None"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
