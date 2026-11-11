@@ -250,5 +250,14 @@
     "duration_min": 18.03,
     "video_file": "podcast_ep28_20261110_075758.mp4",
     "platform": "YouTube"
+  },
+  {
+    "episode": 29,
+    "topic": "L'Écoute des Nuances : Découvrir la Beauté des Sons Subtils",
+    "date": "2026-11-11T07:38:18.410394",
+    "duration_sec": 1009.2,
+    "duration_min": 16.82,
+    "video_file": "podcast_ep29_20261111_072735.mp4",
+    "platform": "Facebook"
   }
 ]
