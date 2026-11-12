@@ -259,5 +259,14 @@
     "duration_min": 16.82,
     "video_file": "podcast_ep29_20261111_072735.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "L'Art de la Lenteur Appréciée : Savourer chaque Battement de Cœur",
+    "date": "2026-11-12T08:06:23.110759",
+    "duration_sec": 1023.41,
+    "duration_min": 17.06,
+    "video_file": "podcast_ep30_20261112_075527.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
