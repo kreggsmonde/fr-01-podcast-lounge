@@ -268,5 +268,14 @@
     "duration_min": 17.06,
     "video_file": "podcast_ep30_20261112_075527.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 31,
+    "topic": "L'Art Subtil de L'Observation Intérieure : Naviguer la Rivière des Émotions",
+    "date": "2026-11-13T07:49:51.109410",
+    "duration_sec": 1050.12,
+    "duration_min": 17.5,
+    "video_file": "podcast_ep31_20261113_073355.mp4",
+    "platform": "Facebook"
   }
 ]
