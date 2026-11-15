@@ -287,6 +287,15 @@ const PODCAST_HISTORY = [
     "duration_min": 17.85,
     "video_file": "podcast_ep32_20261114_071759.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 33,
+    "topic": "L'Art Délicat de l'Abandon Doux : Se laisser porter par le rythme naturel de la vie",
+    "date": "2026-11-15T07:45:37.831676",
+    "duration_sec": 1092.48,
+    "duration_min": 18.21,
+    "video_file": "podcast_ep33_20261115_072842.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
