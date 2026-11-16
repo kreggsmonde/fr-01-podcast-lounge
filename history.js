@@ -296,6 +296,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.21,
     "video_file": "podcast_ep33_20261115_072842.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 34,
+    "topic": "Le Murmure des Fenêtres Ouvertes : Laisser la Douceur du Monde Entrer",
+    "date": "2026-11-16T07:52:23.222367",
+    "duration_sec": 1106.69,
+    "duration_min": 18.44,
+    "video_file": "podcast_ep34_20261116_073451.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
