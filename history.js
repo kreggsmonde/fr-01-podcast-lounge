@@ -305,6 +305,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.44,
     "video_file": "podcast_ep34_20261116_073451.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 35,
+    "topic": "Le Miroir de l'Âme : Cultiver la Clarté par le Regard Intérieur",
+    "date": "2026-11-17T08:59:59.975025",
+    "duration_sec": 994.22,
+    "duration_min": 16.57,
+    "video_file": "podcast_ep35_20261117_084547.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
