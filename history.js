@@ -314,6 +314,15 @@ const PODCAST_HISTORY = [
     "duration_min": 16.57,
     "video_file": "podcast_ep35_20261117_084547.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 36,
+    "topic": "La Symphonie du Silence : Composer la Paix dans le Bruit du Monde",
+    "date": "2026-11-18T08:23:34.198102",
+    "duration_sec": 1042.03,
+    "duration_min": 17.37,
+    "video_file": "podcast_ep36_20261118_080947.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
