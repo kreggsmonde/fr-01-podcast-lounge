@@ -323,6 +323,15 @@ const PODCAST_HISTORY = [
     "duration_min": 17.37,
     "video_file": "podcast_ep36_20261118_080947.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 37,
+    "topic": "Le Fil d'Argent des Pensées : Tisser la Sérénité dans le Flux Mental",
+    "date": "2026-11-19T08:41:09.852441",
+    "duration_sec": 969.98,
+    "duration_min": 16.17,
+    "video_file": "podcast_ep37_20261119_082603.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
