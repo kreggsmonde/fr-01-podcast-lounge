@@ -331,5 +331,14 @@
     "duration_min": 16.17,
     "video_file": "podcast_ep37_20261119_082603.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 38,
+    "topic": "Le Jardin Secret de l'Attention : Cultiver la Présence dans les Détails Discrets",
+    "date": "2026-11-20T08:17:13.781589",
+    "duration_sec": 1085.93,
+    "duration_min": 18.1,
+    "video_file": "podcast_ep38_20261120_080026.mp4",
+    "platform": "Facebook"
   }
 ]
