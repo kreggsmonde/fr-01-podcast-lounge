@@ -340,5 +340,14 @@
     "duration_min": 18.1,
     "video_file": "podcast_ep38_20261120_080026.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 39,
+    "topic": "L'Éveil Doux du Présent : Ancrer son Esprit dans la Joie Simple du Quotidien",
+    "date": "2026-11-21T08:06:04.917841",
+    "duration_sec": 958.03,
+    "duration_min": 15.97,
+    "video_file": "podcast_ep39_20261121_075627.mp4",
+    "platform": "Facebook"
   }
 ]
