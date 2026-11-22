@@ -349,5 +349,14 @@
     "duration_min": 15.97,
     "video_file": "podcast_ep39_20261121_075627.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 40,
+    "topic": "L'Écho des Souvenirs Doux : Nourrir son Âme par la Rétrospection Bienveillante",
+    "date": "2026-11-22T07:56:15.983068",
+    "duration_sec": 929.42,
+    "duration_min": 15.49,
+    "video_file": "podcast_ep40_20261122_074210.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
