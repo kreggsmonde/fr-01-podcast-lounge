@@ -358,5 +358,14 @@
     "duration_min": 15.49,
     "video_file": "podcast_ep40_20261122_074210.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 41,
+    "topic": "Le Fil d'Eau des Pensées : Accueillir et Laisser Glisser le Courant Mental",
+    "date": "2026-11-23T08:44:47.806141",
+    "duration_sec": 980.83,
+    "duration_min": 16.35,
+    "video_file": "podcast_ep41_20261123_083147.mp4",
+    "platform": "Facebook"
   }
 ]
