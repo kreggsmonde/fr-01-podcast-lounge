@@ -367,5 +367,14 @@
     "duration_min": 16.35,
     "video_file": "podcast_ep41_20261123_083147.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 42,
+    "topic": "Le Chant des Petits Riens : Trouver la Joie dans l'Infime",
+    "date": "2026-11-24T10:56:11.492450",
+    "duration_sec": 1071.72,
+    "duration_min": 17.86,
+    "video_file": "podcast_ep42_20261124_103852.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
