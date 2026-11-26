@@ -386,6 +386,15 @@ const PODCAST_HISTORY = [
     "duration_min": 17.82,
     "video_file": "podcast_ep43_20261125_092916.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 44,
+    "topic": "L'Art Discret du Regard Posé : Voir la Beauté Cachée dans le Quotidien",
+    "date": "2026-11-26T09:20:44.498162",
+    "duration_sec": 1027.61,
+    "duration_min": 17.13,
+    "video_file": "podcast_ep44_20261126_090705.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
