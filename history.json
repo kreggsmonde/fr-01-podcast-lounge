@@ -394,5 +394,14 @@
     "duration_min": 17.13,
     "video_file": "podcast_ep44_20261126_090705.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 45,
+    "topic": "Le Temps Suspendu : Cultiver l'Instant Présent pour une Sérénité Durable",
+    "date": "2026-11-27T09:40:10.158019",
+    "duration_sec": 999.74,
+    "duration_min": 16.66,
+    "video_file": "podcast_ep45_20261127_092336.mp4",
+    "platform": "Facebook"
   }
 ]
