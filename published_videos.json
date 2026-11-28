@@ -403,5 +403,14 @@
     "duration_min": 16.66,
     "video_file": "podcast_ep45_20261127_092336.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 46,
+    "topic": "La Danse des Ombres et Lumières : Accueillir les Nuances de sa Journée",
+    "date": "2026-11-28T08:53:51.290954",
+    "duration_sec": 1018.15,
+    "duration_min": 16.97,
+    "video_file": "podcast_ep46_20261128_083855.mp4",
+    "platform": "None"
   }
 ]
